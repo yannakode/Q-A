@@ -8,6 +8,9 @@ This repository contains code for a simple Questions and Answers website. It all
      <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
 </div><br>
 
+## Preview
+![Screenshot](images/preview.jpg)
+
 ## How to Use
 Clone the repository to your local machine.
 Open the index.html file in a web browser.
